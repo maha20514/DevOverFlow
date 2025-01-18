@@ -1,0 +1,18 @@
+{
+  "/_not-found": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/api/webhook/route": "/api/webhook",
+  "/api/chatgpt/route": "/api/chatgpt",
+  "/(root)/collection/page": "/collection",
+  "/(root)/ask-question/page": "/ask-question",
+  "/(root)/tags/page": "/tags",
+  "/(root)/community/page": "/community",
+  "/(root)/(home)/page": "/",
+  "/(auth)/sign-up/[[...sign-up]]/page": "/sign-up/[[...sign-up]]",
+  "/(auth)/sign-in/[[...sign-in]]/page": "/sign-in/[[...sign-in]]",
+  "/(root)/profile/[id]/page": "/profile/[id]",
+  "/(root)/profile/edit/page": "/profile/edit",
+  "/(root)/question/[id]/page": "/question/[id]",
+  "/(root)/tags/[id]/page": "/tags/[id]",
+  "/(root)/question/edit/[id]/page": "/question/edit/[id]"
+}
